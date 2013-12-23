@@ -5,7 +5,7 @@ if %builder_starts%==0 goto :EOF
 set repo_name=Csharphomework
 set proj_name=Somethingstrange
 
-set msbuildpath="C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v11.0\Bin"
+set msbuildpath="C:\Program Files (x86)\MSBuild\Framework\Bin"
 set blatpath="C:\Users\Евгений\Downloads\Мусор"
 
 set fail=0
